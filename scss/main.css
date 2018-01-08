@@ -1,5 +1,4 @@
 @import url(../libs/bootstrap/css/bootstrap.min.css);
-@import url(../libs/owlcarousel/assets/owl.carousel.min.css);
 @import url(../libs/font-awesome/css/font-awesome.min.css);
 /* -------------------------------------------------------------
   Sass CSS3 Mixins! The Cross-Browser CSS3 Sass Library
@@ -82,5 +81,10 @@
 /*///////////////////////////////////ANIMATION//////////////////////////////////*/
 /*/////////////////////////////////////SCREEN////////////////////////////////////////*/
 /*/////////////////////////////////////DIV////////////////////////////////////////*/
+.wrapper .fvv-header {
+  background-image: url("../images/header.jpg");
+  min-height: 600px;
+  background-size: 100%;
+  background-repeat: no-repeat; }
 
 /*# sourceMappingURL=main.css.map */

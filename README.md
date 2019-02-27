@@ -1,3 +1,4 @@
 # fuvavi.github.io
-# Profile của phùng văn việt
+# Profile Phùng Văn Việt
+# Frontend Developer
 # Website fuvavi.com
